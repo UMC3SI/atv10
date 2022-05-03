@@ -7,7 +7,8 @@ package atividade10;
 
 /**
  *
- * @author alunocmc
+ * @author Bruno Rodrigues (11211501661@alunos.umc.br)
+ * @author Bianca Gomes (11211101607@alunos.umc.br)
  */
 public class Vaporeon extends Eevee{
     
